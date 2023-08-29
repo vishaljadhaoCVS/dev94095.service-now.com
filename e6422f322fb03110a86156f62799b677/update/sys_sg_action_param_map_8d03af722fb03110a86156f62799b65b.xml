@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Knowledge)">cd03af722fb03110a86156f62799b648</button>
+        <item_parameter display_value="Knowledge flagged">8503af722fb03110a86156f62799b646</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 20:38:45</sys_created_on>
+        <sys_id>8d03af722fb03110a86156f62799b65b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8503af722fb03110a86156f62799b646</sys_name>
+        <sys_package display_value="EmployeePortal" source="x_1116254_employee">e6422f322fb03110a86156f62799b677</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EmployeePortal">e6422f322fb03110a86156f62799b677</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_8d03af722fb03110a86156f62799b65b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 20:38:45</sys_updated_on>
+        <ui_parameter display_value="Flagged">0d03af722fb03110a86156f62799b651</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

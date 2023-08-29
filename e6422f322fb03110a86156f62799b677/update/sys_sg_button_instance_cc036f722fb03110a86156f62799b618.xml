@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Catalog Task)">c8032f722fb03110a86156f62799b6fe</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Catalog Task)</name>
+        <order/>
+        <parent>4c032f722fb03110a86156f62799b6ed</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 20:38:41</sys_created_on>
+        <sys_id>cc036f722fb03110a86156f62799b618</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Catalog Task)</sys_name>
+        <sys_package display_value="EmployeePortal" source="x_1116254_employee">e6422f322fb03110a86156f62799b677</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EmployeePortal">e6422f322fb03110a86156f62799b677</sys_scope>
+        <sys_update_name>sys_sg_button_instance_cc036f722fb03110a86156f62799b618</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 20:38:41</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=cc036f722fb03110a86156f62799b618"/>
+</record_update>

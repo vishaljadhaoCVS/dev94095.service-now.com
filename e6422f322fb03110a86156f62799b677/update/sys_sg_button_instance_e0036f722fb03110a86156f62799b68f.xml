@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Problem)">28036f722fb03110a86156f62799b68e</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Problem)</name>
+        <order/>
+        <parent>24036f722fb03110a86156f62799b68b</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 20:38:43</sys_created_on>
+        <sys_id>e0036f722fb03110a86156f62799b68f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Problem)</sys_name>
+        <sys_package display_value="EmployeePortal" source="x_1116254_employee">e6422f322fb03110a86156f62799b677</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EmployeePortal">e6422f322fb03110a86156f62799b677</sys_scope>
+        <sys_update_name>sys_sg_button_instance_e0036f722fb03110a86156f62799b68f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 20:38:43</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=e0036f722fb03110a86156f62799b68f"/>
+</record_update>
